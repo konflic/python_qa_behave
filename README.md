@@ -1,2 +1,4 @@
 # python_qa_behave
-Behave framework example
+
+Docs: https://behave.readthedocs.io/
+Cucumber: https://cucumber.io/
